@@ -80,7 +80,3 @@ To wrap up our analysis, we present a visually striking distribution plot. This 
 This project is a versatile and powerful tool for anyone involved in the automotive industry. It equips you with the knowledge and predictive capabilities needed to make informed car pricing decisions. Please note that the code assumes proper data formatting and the presence of all required Python libraries. Feel free to explore, adapt, and expand upon this project to suit your specific needs and data sources.
 
 Enjoy your journey into the world of car price analysis!
-
----
-
-You can use this extensive description in your README.md file to provide a detailed and engaging overview of your "Car Price Analysis Using Regression" project.
