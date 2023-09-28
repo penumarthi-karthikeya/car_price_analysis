@@ -1,5 +1,5 @@
 # Car_price_analysis
-Car Price Analysis Using Regression
+**Car Price Analysis Using Regression**
 This project provides a Python script for car price analysis using regression techniques. The script follows a series of steps to preprocess data, train a regression model, and evaluate its performance. Below is an overview of each part of the code:
 
 Function Definitions
